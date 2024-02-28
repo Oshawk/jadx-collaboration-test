@@ -7,6 +7,14 @@
         "shortId": ""
       },
       "newName": "aRename"
+    },
+    {
+      "nodeRef": {
+        "type": "PKG",
+        "declaringClass": "a0",
+        "shortId": ""
+      },
+      "newName": "a0Rename"
     }
   ]
 }
