@@ -6,7 +6,7 @@
         "declaringClass": "a",
         "shortId": ""
       },
-      "newName": null
+      "newName": "ImmutableByteArray"
     },
     {
       "nodeRef": {
