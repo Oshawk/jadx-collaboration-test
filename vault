@@ -1,0 +1,12 @@
+{
+  "renames": [
+    {
+      "nodeRef": {
+        "type": "PKG",
+        "declaringClass": "a",
+        "shortId": ""
+      },
+      "newName": "aRename"
+    }
+  ]
+}
