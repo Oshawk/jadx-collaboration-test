@@ -6,7 +6,7 @@
         "declaringClass": "a",
         "shortId": ""
       },
-      "newName": "aRename"
+      "newName": null
     },
     {
       "nodeRef": {
@@ -15,6 +15,14 @@
         "shortId": ""
       },
       "newName": "a0Rename"
+    },
+    {
+      "nodeRef": {
+        "type": "PKG",
+        "declaringClass": "a1",
+        "shortId": ""
+      },
+      "newName": "a1Rename2"
     }
   ]
 }
