@@ -1,0 +1,37 @@
+{
+  "renames": [
+    {
+      "nodeRef": {
+        "type": "PKG",
+        "declaringClass": "a",
+        "shortId": ""
+      },
+      "newName": "ByteArray",
+      "versionVector": {
+        "c3aa9cbd-11ad-4899-a20c-2d6328f35efa": 1
+      }
+    },
+    {
+      "nodeRef": {
+        "type": "PKG",
+        "declaringClass": "a0",
+        "shortId": ""
+      },
+      "newName": "a0Rename",
+      "versionVector": {
+        "c3aa9cbd-11ad-4899-a20c-2d6328f35efa": 1
+      }
+    },
+    {
+      "nodeRef": {
+        "type": "PKG",
+        "declaringClass": "a1",
+        "shortId": ""
+      },
+      "newName": "a1Rename2",
+      "versionVector": {
+        "c3aa9cbd-11ad-4899-a20c-2d6328f35efa": 1
+      }
+    }
+  ]
+}
