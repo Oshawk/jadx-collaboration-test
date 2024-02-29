@@ -32,6 +32,17 @@
       "versionVector": {
         "c3aa9cbd-11ad-4899-a20c-2d6328f35efa": 1
       }
+    },
+    {
+      "nodeRef": {
+        "type": "PKG",
+        "declaringClass": "a2",
+        "shortId": ""
+      },
+      "newName": "a2asdasdasd",
+      "versionVector": {
+        "c3aa9cbd-11ad-4899-a20c-2d6328f35efa": 1
+      }
     }
   ]
 }
