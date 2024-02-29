@@ -1,0 +1,28 @@
+{
+  "renames": [
+    {
+      "nodeRef": {
+        "type": "PKG",
+        "declaringClass": "a",
+        "shortId": ""
+      },
+      "newName": "ByteArray"
+    },
+    {
+      "nodeRef": {
+        "type": "PKG",
+        "declaringClass": "a0",
+        "shortId": ""
+      },
+      "newName": "a0Rename"
+    },
+    {
+      "nodeRef": {
+        "type": "PKG",
+        "declaringClass": "a1",
+        "shortId": ""
+      },
+      "newName": "a1Rename2"
+    }
+  ]
+}
