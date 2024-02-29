@@ -6,9 +6,10 @@
         "declaringClass": "a",
         "shortId": ""
       },
-      "newName": "ByteArray",
+      "newName": "ImmutableByteArray",
       "versionVector": {
-        "c3aa9cbd-11ad-4899-a20c-2d6328f35efa": 1
+        "c3aa9cbd-11ad-4899-a20c-2d6328f35efa": 1,
+        "4b59c022-9549-4946-94e2-e9090d922d9c": 1
       }
     },
     {
