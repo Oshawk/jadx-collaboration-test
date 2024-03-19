@@ -1,25 +1,31 @@
 {
   "renames": [
     {
-      "nodeRef": {
-        "type": "METHOD",
-        "declaringClass": "HelloWorld",
-        "shortId": "main([Ljava/lang/String;)V"
+      "identifier": {
+        "nodeRef": {
+          "type": "METHOD",
+          "declaringClass": "HelloWorld",
+          "shortId": "main([Ljava/lang/String;)V"
+        },
+        "codeRef": null
       },
       "newName": "argumentRename",
       "versionVector": {
-        "138596d6-8a5d-4680-8cbe-bda76e6df662": 1
+        "d5e8ca69-3fe1-4707-9338-f1715a070686": 1
       }
     },
     {
-      "nodeRef": {
-        "type": "METHOD",
-        "declaringClass": "HelloWorld",
-        "shortId": "main([Ljava/lang/String;)V"
+      "identifier": {
+        "nodeRef": {
+          "type": "METHOD",
+          "declaringClass": "HelloWorld",
+          "shortId": "main([Ljava/lang/String;)V"
+        },
+        "codeRef": null
       },
       "newName": "methodRename",
       "versionVector": {
-        "138596d6-8a5d-4680-8cbe-bda76e6df662": 1
+        "d5e8ca69-3fe1-4707-9338-f1715a070686": 1
       }
     }
   ]
