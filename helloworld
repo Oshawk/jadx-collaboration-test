@@ -9,9 +9,10 @@
         },
         "codeRef": null
       },
-      "newName": "a",
+      "newName": "b",
       "versionVector": {
-        "cd15dc81-afbe-4e07-b7b2-ab92cb278b89": 1
+        "cd15dc81-afbe-4e07-b7b2-ab92cb278b89": 1,
+        "874d90f3-ceba-450d-afeb-9fbe4bd3c61b": 1
       }
     },
     {
