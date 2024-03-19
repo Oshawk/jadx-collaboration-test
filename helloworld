@@ -1,3 +1,35 @@
 {
-  "renames": []
+  "renames": [
+    {
+      "identifier": {
+        "nodeRef": {
+          "type": "METHOD",
+          "declaringClass": "HelloWorld",
+          "shortId": "main([Ljava/lang/String;)V"
+        },
+        "codeRef": null
+      },
+      "newName": "a",
+      "versionVector": {
+        "cd15dc81-afbe-4e07-b7b2-ab92cb278b89": 1
+      }
+    },
+    {
+      "identifier": {
+        "nodeRef": {
+          "type": "METHOD",
+          "declaringClass": "HelloWorld",
+          "shortId": "main([Ljava/lang/String;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 196608
+        }
+      },
+      "newName": "b",
+      "versionVector": {
+        "cd15dc81-afbe-4e07-b7b2-ab92cb278b89": 1
+      }
+    }
+  ]
 }
