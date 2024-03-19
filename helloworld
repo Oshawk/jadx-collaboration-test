@@ -26,10 +26,11 @@
           "index": 196608
         }
       },
-      "newName": "c",
+      "newName": "d",
       "versionVector": {
         "cd15dc81-afbe-4e07-b7b2-ab92cb278b89": 1,
-        "1de8482b-23a0-4f91-9ef5-041236e6afd7": 1
+        "1de8482b-23a0-4f91-9ef5-041236e6afd7": 1,
+        "874d90f3-ceba-450d-afeb-9fbe4bd3c61b": 1
       }
     }
   ]
