@@ -1,0 +1,26 @@
+{
+  "renames": [
+    {
+      "nodeRef": {
+        "type": "METHOD",
+        "declaringClass": "HelloWorld",
+        "shortId": "main([Ljava/lang/String;)V"
+      },
+      "newName": "argumentRename",
+      "versionVector": {
+        "0489ba62-612a-4147-a819-624bd28ef08b": 1
+      }
+    },
+    {
+      "nodeRef": {
+        "type": "METHOD",
+        "declaringClass": "HelloWorld",
+        "shortId": "main([Ljava/lang/String;)V"
+      },
+      "newName": "methodRename",
+      "versionVector": {
+        "0489ba62-612a-4147-a819-624bd28ef08b": 1
+      }
+    }
+  ]
+}
