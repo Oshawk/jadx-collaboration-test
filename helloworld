@@ -9,10 +9,10 @@
         },
         "codeRef": null
       },
-      "newName": "jsdbdbfs",
+      "newName": null,
       "versionVector": {
         "cd15dc81-afbe-4e07-b7b2-ab92cb278b89": 1,
-        "874d90f3-ceba-450d-afeb-9fbe4bd3c61b": 2,
+        "874d90f3-ceba-450d-afeb-9fbe4bd3c61b": 3,
         "1de8482b-23a0-4f91-9ef5-041236e6afd7": 1
       }
     },
@@ -25,10 +25,10 @@
         },
         "codeRef": null
       },
-      "newName": "cattet",
+      "newName": null,
       "versionVector": {
         "cd15dc81-afbe-4e07-b7b2-ab92cb278b89": 1,
-        "874d90f3-ceba-450d-afeb-9fbe4bd3c61b": 3
+        "874d90f3-ceba-450d-afeb-9fbe4bd3c61b": 4
       }
     },
     {
@@ -43,11 +43,11 @@
           "index": 196608
         }
       },
-      "newName": "doge",
+      "newName": null,
       "versionVector": {
         "cd15dc81-afbe-4e07-b7b2-ab92cb278b89": 1,
         "1de8482b-23a0-4f91-9ef5-041236e6afd7": 2,
-        "874d90f3-ceba-450d-afeb-9fbe4bd3c61b": 2
+        "874d90f3-ceba-450d-afeb-9fbe4bd3c61b": 3
       }
     },
     {
@@ -59,10 +59,10 @@
         },
         "codeRef": null
       },
-      "newName": "jdjdjdj",
+      "newName": null,
       "versionVector": {
         "1de8482b-23a0-4f91-9ef5-041236e6afd7": 1,
-        "874d90f3-ceba-450d-afeb-9fbe4bd3c61b": 1
+        "874d90f3-ceba-450d-afeb-9fbe4bd3c61b": 2
       }
     }
   ]
