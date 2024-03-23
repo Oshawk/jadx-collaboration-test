@@ -25,10 +25,10 @@
         },
         "codeRef": null
       },
-      "newName": "c",
+      "newName": "cattet",
       "versionVector": {
         "cd15dc81-afbe-4e07-b7b2-ab92cb278b89": 1,
-        "874d90f3-ceba-450d-afeb-9fbe4bd3c61b": 2
+        "874d90f3-ceba-450d-afeb-9fbe4bd3c61b": 3
       }
     },
     {
@@ -43,11 +43,11 @@
           "index": 196608
         }
       },
-      "newName": "e",
+      "newName": "doge",
       "versionVector": {
         "cd15dc81-afbe-4e07-b7b2-ab92cb278b89": 1,
         "1de8482b-23a0-4f91-9ef5-041236e6afd7": 2,
-        "874d90f3-ceba-450d-afeb-9fbe4bd3c61b": 1
+        "874d90f3-ceba-450d-afeb-9fbe4bd3c61b": 2
       }
     },
     {
@@ -59,9 +59,10 @@
         },
         "codeRef": null
       },
-      "newName": "hello",
+      "newName": "jdjdjdj",
       "versionVector": {
-        "1de8482b-23a0-4f91-9ef5-041236e6afd7": 1
+        "1de8482b-23a0-4f91-9ef5-041236e6afd7": 1,
+        "874d90f3-ceba-450d-afeb-9fbe4bd3c61b": 1
       }
     }
   ]
