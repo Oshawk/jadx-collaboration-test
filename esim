@@ -4,6 +4,21 @@
       "identifier": {
         "nodeRef": {
           "type": "CLASS",
+          "declaringClass": "esim.me.NewCardID",
+          "shortId": null
+        },
+        "codeRef": null
+      },
+      "newName": "NewCardIDRename",
+      "versionVector": {
+        "1c0edd27-b502-4e86-97fa-da49a3f2f67e": 2,
+        "bb95ebbf-d062-4f19-a05d-a6437f0855ad": 1
+      }
+    },
+    {
+      "identifier": {
+        "nodeRef": {
+          "type": "CLASS",
           "declaringClass": "kotlin.jvm.internal.Intrinsics",
           "shortId": null
         },
