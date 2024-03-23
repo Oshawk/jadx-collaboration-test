@@ -1,0 +1,18 @@
+{
+  "renames": [
+    {
+      "identifier": {
+        "nodeRef": {
+          "type": "CLASS",
+          "declaringClass": "kotlin.jvm.internal.Intrinsics",
+          "shortId": null
+        },
+        "codeRef": null
+      },
+      "newName": "IntrinsicsRename",
+      "versionVector": {
+        "1c0edd27-b502-4e86-97fa-da49a3f2f67e": 1
+      }
+    }
+  ]
+}
