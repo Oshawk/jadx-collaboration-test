@@ -33,6 +33,20 @@
         "1de8482b-23a0-4f91-9ef5-041236e6afd7": 2,
         "874d90f3-ceba-450d-afeb-9fbe4bd3c61b": 1
       }
+    },
+    {
+      "identifier": {
+        "nodeRef": {
+          "type": "PKG",
+          "declaringClass": "",
+          "shortId": ""
+        },
+        "codeRef": null
+      },
+      "newName": "hello",
+      "versionVector": {
+        "1de8482b-23a0-4f91-9ef5-041236e6afd7": 1
+      }
     }
   ]
 }
