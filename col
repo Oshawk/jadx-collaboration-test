@@ -9,10 +9,11 @@
         },
         "codeRef": null
       },
-      "newName": "hexToBytes",
       "versionVector": {
         "dba8b9bd-a913-4adf-bd4d-ebcb75acecea": 1
-      }
+      },
+      "newName": "hexToBytes"
     }
-  ]
+  ],
+  "comments": []
 }
