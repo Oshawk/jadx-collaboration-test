@@ -15,5 +15,24 @@
       "newName": "hexToBytes"
     }
   ],
-  "comments": []
+  "comments": [
+    {
+      "identifier": {
+        "nodeRef": {
+          "type": "METHOD",
+          "declaringClass": "com.supercell.titan.z1",
+          "shortId": "a(Ljava/lang/String;)[B"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 2
+        }
+      },
+      "versionVector": {
+        "dba8b9bd-a913-4adf-bd4d-ebcb75acecea": 1
+      },
+      "comment": "test",
+      "style": "LINE"
+    }
+  ]
 }
