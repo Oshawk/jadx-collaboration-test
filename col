@@ -4,6 +4,21 @@
       "identifier": {
         "nodeRef": {
           "type": "METHOD",
+          "declaringClass": "android.support.transition.Slide$1",
+          "shortId": "getGoneX(Landroid/view/ViewGroup;Landroid/view/View;)F"
+        },
+        "codeRef": null
+      },
+      "versionVector": {
+        "dba8b9bd-a913-4adf-bd4d-ebcb75acecea": 1,
+        "c576159a-366e-4278-83fd-032ec1b6674f": 1
+      },
+      "newName": "getGoneXtest"
+    },
+    {
+      "identifier": {
+        "nodeRef": {
+          "type": "METHOD",
           "declaringClass": "com.supercell.titan.z1",
           "shortId": "a(Ljava/lang/String;)[B"
         },
